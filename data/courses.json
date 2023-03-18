@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Angular +",
+    "price": "100000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+    "id": "65e315b4-b17b-4fd6-b49a-1f7bb7ab8c18"
+  },
+  {
+    "title": "Vue",
+    "price": "2000",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oX8CahAYCtAKcKH6j8OkTGFSFwr0DKq4_SVTdv_SaVBw0EkJExtl8DnlzLO_4XUMTxM&usqp=CAU",
+    "id": "0e75d9fc-26ab-48a6-a6ef-b85ae77c167e"
+  }
+]

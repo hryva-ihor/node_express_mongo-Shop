@@ -1,0 +1,19 @@
+<h1>Card</h1>
+{{#if courses.length}}
+<ul id="removeListener" class="collection">
+  {{#each courses}}
+  <li class="collection-item avatar">
+    <img class="circle" src="{{img}}" alt="img">
+
+    <span class="title">{{title}}</span>
+    <p class="price">{{price}}
+    </p>
+    <p class="secondary-content big">Count: {{count}}</p>
+    <button  class="btn btn-small right remove-course" data-id="{{id}}">Delete course</button>
+  </li>
+  {{/each}}
+</ul>
+<p>Total price: <span id="price-inner" class="price big">{{card.price}}</span></p>
+{{else}}
+<p>empty</p>
+{{/if}} 
